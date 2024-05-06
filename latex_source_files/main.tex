@@ -11,8 +11,6 @@
 \usepackage{enumitem} %for formatting of lists
 \usepackage{graphicx} %for scaling tabular environments
 
-\usepackage{lipsum} %for sample paragraphs, delete at end
-
 
 % Page configuration
 \geometry{a4paper, landscape, top=10mm, bottom=10mm, left=10mm, right=10mm, columnsep=10mm,}
@@ -76,11 +74,11 @@ CREATE DATABASE library;
 \end{lstlisting}
 \vspace{0.5ex}
 
-To delete a database we use:
+To delete (or drop) a database we use:
 
 \vspace{0.5ex}
 \begin{lstlisting}[style=sql]
-DELETE DATABASE library;
+DROP DATABASE library;
 \end{lstlisting}
 \vspace{0.5ex}
 
