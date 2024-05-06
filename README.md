@@ -1,6 +1,6 @@
 # sql_cheat_sheet
 
-A cheat sheet summarising the SQL I have learnt following a 20 hour Udemy course.
+A cheat sheet summarising the SQL I learnt during a 20 hour Udemy course.
 
 Both the pdf and LaTeX source files are included. 
 
