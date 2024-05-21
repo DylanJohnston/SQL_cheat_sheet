@@ -1,4 +1,4 @@
-# sql_cheat_sheet
+# SQL cheat sheet
 
 A cheat sheet summarising the SQL I learnt during a 20 hour Udemy course by Colt Steele.
 https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert
