@@ -1,6 +1,6 @@
 # SQL cheat sheet
 
-A cheat sheet summarising the SQL I learnt during a 20-hour Udemy course by Colt Steele.
+A summary of the SQL learnt during the MySQL Udemy course by Colt Steele.
 https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert
 
 Both the .pdf and LaTeX source files are included. The syntax is compatible with the DBMS MySQL.
