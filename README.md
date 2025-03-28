@@ -1,4 +1,4 @@
-# SQL cheat sheet
+# SQL summary sheet
 
 A summary of the SQL learnt during the MySQL Udemy course by Colt Steele.
 https://www.udemy.com/course/the-ultimate-mysql-bootcamp-go-from-sql-beginner-to-expert
